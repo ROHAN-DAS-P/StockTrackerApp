@@ -72,6 +72,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'stockproject.wsgi.application'
+ASGI_APPLICATION = 'stockproject.asgi.application'
 
 
 # Database
